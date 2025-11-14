@@ -1,14 +1,9 @@
 pandas
 numpy
 matplotlib
-spacy
 statsmodels
 seaborn
 scipy
-pingouin
-networkx
-praw
-plotly
 scikit-learn
 ipykernel
 shiny
